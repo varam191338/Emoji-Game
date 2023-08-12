@@ -1,0 +1,10 @@
+.bg-container {
+  background-color: lightblue;
+  height: 100vh;
+}
+
+.emoji-cards {
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+}

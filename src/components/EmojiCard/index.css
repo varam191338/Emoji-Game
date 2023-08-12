@@ -1,0 +1,8 @@
+.emoji-cards {
+  display: flex;
+}
+
+.emoji-card {
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
